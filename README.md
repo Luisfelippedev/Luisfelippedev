@@ -4,8 +4,8 @@
 
 ### Sobre mim
 * :bust_in_silhouette: 18 years
-* :school: Técnico em Informática - ECIT Professora Nicéa Claudino Pinheiro
 * :school: Análise e Desenvolvimento de Sistemas 3/7 - IFPB-CZ
+* :school: Técnico em Informática - ECIT Professora Nicéa Claudino Pinheiro
 * :computer: Entusiasta por programação!
 
 <div style="display: inline-block">
