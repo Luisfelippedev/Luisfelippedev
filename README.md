@@ -1,9 +1,9 @@
-## Hi, i'm Luis Felipe Marques de Oliveira 👋
+## Olá, eu sou Luis Felipe Marques de Oliveira 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paulofreitasnt)](https://github.com/Luisffelipe)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:luis.felippe@academico.ifpb.edu.br)
 
 ### About me
-* :bust_in_silhouette: 18 years
+* :bust_in_silhouette: 18 anos
 * :school: Análise e Desenvolvimento de Sistemas 3/6 - IFPB
 * :school: Técnico em Informática 3/3 - ECIT Professora Nicéa Claudino Pinheiro 
 
