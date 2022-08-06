@@ -4,7 +4,7 @@
 
 ### About me
 * :bust_in_silhouette: 19 years
-* :school: analysis and systems development 4/7 - Federal Institute Of Paraiba
+* :school: Analysis And Systems Development 4/7 - Federal Institute Of Paraiba
 * :school: Computer Technician 3/3 - ECIT Professora Nicéa Claudino Pinheiro 
 
 
