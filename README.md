@@ -7,6 +7,8 @@
 * :school: Analysis And Systems Development 7/7 - Federal Institute Of Paraiba
 * :school: Computer Technician 3/3 - ECIT Professora Nicéa Claudino Pinheiro 
 
+![Luis Felippe GitHub stats](https://github-readme-stats.vercel.app/api?username=luisffelipe&show_icons=true&theme=radical)
+
 
 <div style="display: inline-block">
   <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
