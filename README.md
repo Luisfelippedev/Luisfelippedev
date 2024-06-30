@@ -7,7 +7,7 @@
 - :raising_hand_man: Personal portfolio: https://luisfelippe.vercel.app/
 - :computer: Full-stack developer
 - :bust_in_silhouette: 21 years
-- :school: Graduate Programs Lato Sensu, Full Stack Development 1/6 - Estácio
+- :school: Graduate Programs Lato Sensu, Full Stack Development 1/2 - Estácio
 - :school: Analysis And Systems Development 6/6 - Federal Institute Of Paraiba
 - :school: Computer Technician 3/3 - ECIT Professora Nicéa Claudino Pinheiro
 
